@@ -1,0 +1,151 @@
+pre.cobaltcs .BlockQuote {
+   background-color: #004480;
+}
+pre.cobaltcs .CssPropertyValue {
+   color: #F6F080;
+}
+pre.cobaltcs .CCPreprocessorDirective {
+   color: #AFC4DB;
+}
+pre.cobaltcs .String {
+   color: #3AD900;
+}
+pre.cobaltcs .Constant {
+   color: #FF628C;
+}
+pre.cobaltcs .line-numbers {
+   background-color: #B36539;
+   color: #000000;
+}
+pre.cobaltcs .List {
+   background-color: #130D26;
+}
+pre.cobaltcs .EmbeddedSource {
+   background-color: #223545;
+   color: #FFFFFF;
+}
+pre.cobaltcs .Variable {
+   color: #CCCCCC;
+}
+pre.cobaltcs .Support {
+   color: #80FFBB;
+}
+pre.cobaltcs .RawMarkup {
+   background-color: #74B6CC;
+}
+pre.cobaltcs .DiffInserted {
+   background-color: #154F00;
+   color: #F8F8F8;
+}
+pre.cobaltcs .DiffHeader {
+   background-color: #000E1A;
+   color: #F8F8F8;
+}
+pre.cobaltcs .CssConstructorArgument {
+   color: #EB939A;
+}
+pre.cobaltcs .LangVariable {
+   color: #FF80E1;
+}
+pre.cobaltcs .Storage {
+   color: #FFEE80;
+}
+pre.cobaltcs .DiffChanged {
+   background-color: #806F00;
+   color: #F8F8F8;
+}
+pre.cobaltcs .StringConstant {
+   color: #80FF82;
+}
+pre.cobaltcs .Punctuation {
+   color: #E1EFFF;
+}
+pre.cobaltcs .CssAtRule {
+   color: #F6AA11;
+}
+pre.cobaltcs .CssClass {
+   color: #5FE461;
+}
+pre.cobaltcs .Exception {
+   color: #FF1E00;
+}
+pre.cobaltcs .SupportConstant {
+   color: #EB939A;
+}
+pre.cobaltcs {
+   background-color: #000E1A;
+   color: #FFFFFF;
+}
+pre.cobaltcs .MetaTagA {
+   color: #9EFFFF;
+}
+pre.cobaltcs .CCPreprocessorLine {
+   color: #8996A8;
+}
+pre.cobaltcs .StringEmbeddedSource {
+   color: #9EFF80;
+}
+pre.cobaltcs .BoldMarkup {
+   font-weight: bold;
+   color: #C1AFFF;
+}
+pre.cobaltcs .CssTagName {
+   color: #9EFFFF;
+}
+pre.cobaltcs .SupportFunction {
+   color: #BB7EFF;
+}
+pre.cobaltcs .Keyword {
+   font-weight: bold;
+   color: #FF9D00;
+}
+pre.cobaltcs .HeadingMarkup {
+   font-weight: bold;
+   background-color: #001221;
+   color: #C8E4FD;
+}
+pre.cobaltcs .ItalicMarkup {
+   color: #B8FFD9;
+   font-style: italic;
+}
+pre.cobaltcs .DiffDeleted {
+   background-color: #4C0900;
+   color: #F8F8F8;
+}
+pre.cobaltcs .CssAdditionalConstants {
+   color: #EDF080;
+}
+pre.cobaltcs .DoctypeXmlProcessing {
+   color: #73817D;
+}
+pre.cobaltcs .StringRegexp {
+   color: #80FFC2;
+}
+pre.cobaltcs .EntityInheritedClass {
+   color: #80FCFF;
+   font-style: italic;
+}
+pre.cobaltcs .FunctionCall {
+   color: #FFE667;
+}
+pre.cobaltcs .CssId {
+   color: #FFB454;
+}
+pre.cobaltcs .StringVariable {
+   color: #EDEF7D;
+}
+pre.cobaltcs .Invalid {
+   background-color: #800F00;
+   color: #F8F8F8;
+}
+pre.cobaltcs .CssPropertyName {
+   color: #9DF39F;
+}
+pre.cobaltcs .Comment {
+   color: #0088FF;
+   font-style: italic;
+}
+pre.cobaltcs .Entity {
+   background-color: #000E1A;
+   color: #FFDD00;
+}
