@@ -1,0 +1,19 @@
+SimpleStyleSheetServer
+
+A simple stylesheet server.  Use it for testing, or *very* light
+production use.
+
+git://github.com/codesponge/SimpleStyleSheetServer.git
+put your own style_sheets in static
+
+start it up with ..
+
+@rackup@
+
+or use it for more public testing
+
+heroku create 'what_ever_you_want_to_call_your_heroku_app'
+git push heroku master
+
+
+
