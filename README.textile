@@ -1,4 +1,4 @@
-SimpleStyleSheetServer
+h2. SimpleStyleSheetServer
 
 A simple stylesheet server.  Use it for testing, or *very* light
 production use.
@@ -11,9 +11,10 @@ start it up with ..
 @rackup@
 
 or use it for more public testing...
-<code>
+
+<code><pre>
 heroku create 'whatEverYouWantToCallYourHerokuApp'
 git push heroku master
-</code>
+</pre></code>
 
 
