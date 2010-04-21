@@ -10,10 +10,10 @@ start it up with ..
 
 @rackup@
 
-or use it for more public testing
-
-heroku create 'what_ever_you_want_to_call_your_heroku_app'
+or use it for more public testing...
+<code>
+heroku create 'whatEverYouWantToCallYourHerokuApp'
 git push heroku master
-
+</code>
 
 
