@@ -12,9 +12,9 @@ start it up with ..
 
 or use it for more public testing...
 
-<code><pre>
-heroku create 'whatEverYouWantToCallYourHerokuApp'
+<code>
+heroku create 'whatEverYouWantToCallYourHerokuApp';
 git push heroku master
-</pre></code>
+</code>
 
 
