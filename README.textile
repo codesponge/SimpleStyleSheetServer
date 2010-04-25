@@ -3,8 +3,8 @@ h2. SimpleStyleSheetServer
 A simple stylesheet server.  Use it for testing, or *very* light
 production use.
 
-git://github.com/codesponge/SimpleStyleSheetServer.git
-put your own style_sheets in static
+git clone git://github.com/codesponge/SimpleStyleSheetServer.git
+put your own style_sheets in static/
 
 start it up with ..
 
